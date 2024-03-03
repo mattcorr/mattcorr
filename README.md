@@ -9,7 +9,7 @@ Located in Brisbane with a young family.
   - [Azure DevOps](https://dev.azure.com)
   - [GitHub](https://www.github.com)
 - 🌱 Currently skilling up  in Microsoft Azure again, focusing on DevOps and Data resources.
-- 💬 Ask me about DevOps, Bicep and PowerShell
+- 💬 Ask me about DevOps, Terraform, Bicep and PowerShell
 - 📫 How to reach me: [Email](mailto:matt.corr@gmail.com) or [Twitter](https://www.twitter.com/mattcorr) are your best options
 
 ### Other links
